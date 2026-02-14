@@ -333,8 +333,8 @@ export default function Home() {
               <h4 className="font-semibold mb-4 text-background">Contato</h4>
               <ul className="space-y-2 text-sm text-background/80 font-medium">
                 <li><a href="mailto:contato@bbsaadvogados.com.br" className="hover:text-background transition">contato@bbsaadvogados.com.br</a></li>
-                <li><a href="https://wa.me/5511999999999" target="_blank" rel="noopener noreferrer" className="hover:text-background transition">(11) 99999-9999</a></li>
-                <li>São Paulo, SP</li>
+                <li><a href="https://wa.me/5511970366992" target="_blank" rel="noopener noreferrer" className="hover:text-background transition">(11) 97036-6992</a></li>
+                <li>Av. Brig. Faria Lima, 1478, 7º Andar, São Paulo, SP</li>
               </ul>
             </div>
           </div>
