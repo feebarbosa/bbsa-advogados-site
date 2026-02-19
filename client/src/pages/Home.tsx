@@ -248,23 +248,24 @@ export default function Home() {
       {/* Contato */}
       <section id="contato" className="py-20 md:py-32 bg-secondary/30">
         <div className="container">
-          <div className="max-w-3xl">
+          <div className="max-w-4xl">
             <div className="flex items-center gap-3 mb-4 md:mb-6">
               <div className="divider-vertical"></div>
               <span className="subtitle text-primary text-sm md:text-base">Fale Conosco</span>
             </div>
             <h2 className="mb-8 md:mb-12 text-foreground text-xl md:text-3xl lg:text-4xl leading-snug md:leading-tight">Entre em Contato</h2>
-
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
               <div className="flex gap-4">
                 <div className="flex-shrink-0 mt-1">
                   <Mail className="w-6 h-6 text-primary" />
                 </div>
                 <div>
-                  <p className=<a href="mailto:contato@bbsaadvogados.com.br" className="link-underline font-semibold text-foreground text-sm break-all">
+                  <p className="text-sm text-muted-foreground mb-2 font-semibold">E-mail</p>
+                  <a href="mailto:contato@bbsaadvogados.com.br" className="link-underline font-semibold text-foreground text-sm break-all">
+                    contato@bbsaadvogados.com.br
+                  </a>
                 </div>
               </div>
-
               <div className="flex gap-4">
                 <div className="flex-shrink-0 mt-1">
                   <Phone className="w-6 h-6 text-primary" />
@@ -272,11 +273,10 @@ export default function Home() {
                 <div>
                   <p className="text-sm text-muted-foreground mb-2 font-semibold">WhatsApp</p>
                   <a href="https://wa.me/5511970366992" target="_blank" rel="noopener noreferrer" className="link-underline font-semibold text-foreground">
-                    (11) 97036-6992
+                    (11 ) 97036-6992
                   </a>
                 </div>
               </div>
-
               <div className="flex gap-4">
                 <div className="flex-shrink-0 mt-1">
                   <MapPin className="w-6 h-6 text-primary" />
