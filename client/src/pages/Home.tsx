@@ -261,9 +261,7 @@ export default function Home() {
                   <Mail className="w-6 h-6 text-primary" />
                 </div>
                 <div>
-                  <p className="text-sm text-muted-foreground mb-2 font-semibold">E-mail</p>
-                 <a href="mailto:contato@bbsaadvogados.com.br" className="link-underline font-semibold text-foreground text-sm break-all">
-                  </a>contato@bbsaadvogados.com.br
+                  <p className=<a href="mailto:contato@bbsaadvogados.com.br" className="link-underline font-semibold text-foreground text-sm break-all">
                 </div>
               </div>
 
