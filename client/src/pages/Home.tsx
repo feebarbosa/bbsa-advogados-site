@@ -274,8 +274,8 @@ export default function Home() {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground mb-2 font-semibold">WhatsApp</p>
-                  <a href="https://wa.me/5511999999999" target="_blank" rel="noopener noreferrer" className="link-underline font-semibold text-foreground">
-                    (11) 99999-9999
+                  <a href="https://wa.me/5511970366992" target="_blank" rel="noopener noreferrer" className="link-underline font-semibold text-foreground">
+                    (11) 97036-6992
                   </a>
                 </div>
               </div>
@@ -286,7 +286,7 @@ export default function Home() {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground mb-2 font-semibold">Localização</p>
-                  <p className="font-semibold text-foreground">São Paulo, SP</p>
+                  <p className="font-semibold text-foreground">Av. Brig. Faria Lima, 1478, 7º Andar, São Paulo, SP</p>
                 </div>
               </div>
             </div>
@@ -301,7 +301,7 @@ export default function Home() {
 
       {/* Botão WhatsApp Flutuante */}
       <a
-        href="https://wa.me/5511999999999"
+        href="https://wa.me/5511970366992"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 z-40 bg-primary hover:bg-primary/90 text-primary-foreground rounded-full p-4 shadow-lg transition-all duration-300 hover:scale-110 flex items-center justify-center"
