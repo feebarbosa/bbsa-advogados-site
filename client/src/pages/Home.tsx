@@ -255,15 +255,14 @@ export default function Home() {
             </div>
             <h2 className="mb-8 md:mb-12 text-foreground text-xl md:text-3xl lg:text-4xl leading-snug md:leading-tight">Entre em Contato</h2>
 
-            <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
               <div className="flex gap-4">
                 <div className="flex-shrink-0 mt-1">
                   <Mail className="w-6 h-6 text-primary" />
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground mb-2 font-semibold">E-mail</p>
-                  <a href="mailto:contato@bbsaadvogados.com.br" className="link-underline font-semibold text-foreground">
-                    contato@bbsaadvogados.com.br
+                 <a href="mailto:contato@bbsaadvogados.com.br" className="link-underline font-semibold text-foreground text-sm break-all">
                   </a>
                 </div>
               </div>
