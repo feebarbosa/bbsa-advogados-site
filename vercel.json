@@ -1,4 +1,3 @@
-vercel.json
 site/
 ├── index.html              ← site principal (home)
 └── acidente-trabalho/
