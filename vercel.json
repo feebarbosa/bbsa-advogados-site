@@ -1,6 +1,5 @@
-{
-  "framework": null,
-  "installCommand": "echo skip",
-  "buildCommand": "mkdir -p dist && cp index.html dist/index.html",
-  "outputDirectory": "dist"
-}
+vercel.json
+site/
+├── index.html              ← site principal (home)
+└── acidente-trabalho/
+    └── index.html          ← LP Acidente e Doença
