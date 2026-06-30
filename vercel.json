@@ -1,4 +1,5 @@
-site/
-├── index.html              ← site principal (home)
-└── acidente-trabalho/
-    └── index.html          ← LP Acidente e Doença
+{
+  "framework": null,
+  "buildCommand": "echo static",
+  "outputDirectory": "site"
+}
